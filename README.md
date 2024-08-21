@@ -55,11 +55,3 @@ The sentiment analysis model uses a Recurrent Neural Network (RNN) with the foll
 - **Dense Layer**: Outputs classification probabilities for the sentiment categories.
 
 This architecture enables the model to handle sequential text data effectively and make accurate predictions based on learned patterns and representations.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis-rnn.git
-   cd sentiment-analysis-rnn
