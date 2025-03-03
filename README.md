@@ -11,7 +11,7 @@ The goal of this project is to classify text into one of four sentiment categori
 - **Neutral**
 - **Irrelevant**
 
-The model is trained on a dataset containing text reviews, including emojis, and it uses a SimpleRNN layer to capture the sequential nature of the text data
+The model is trained on a dataset containing text reviews, including emojis, and it uses a SimpleRNN layer to capture the sequential nature of the text data.
 
 ## Features
 
