@@ -5,7 +5,7 @@ This repository contains a sentiment analysis project that uses a Recurrent Neur
 
 ## Project Overview
 
-The goal of this project is to classify text into one of four sentiment categories:
+The goal of this project is to classify text into one of four sentiment categories
 - **Negative**
 - **Positive**
 - **Neutral**
