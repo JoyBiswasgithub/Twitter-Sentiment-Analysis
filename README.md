@@ -28,7 +28,7 @@ The sentiment analysis model uses a Recurrent Neural Network (RNN) with the foll
    - **Parameters**:
      - `input_dim`: Size of the vocabulary (number of unique words).
      - `output_dim`: Dimensionality of the embedding vectors (e.g., 100).
-     - `input_length`: Length of the input sequences (e.g., the maximum length of padded sequences)
+     - `input_length`: Length of the input sequences (e.g., the maximum length of padded sequences).
 
    **Explanation**: This layer maps each word to a dense vector, capturing semantic meaning and relationships between words. It helps the model understand text better by representing words in a continuous space.
 
