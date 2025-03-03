@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis.
-# Sentiment Analysis with RNN using TensorFlow
+# Sentiment Analysis with RNN using TensorFlow.
 
 This repository contains a sentiment analysis project that uses a Recurrent Neural Network (RNN) model built with TensorFlow. The project includes data preprocessing, model training, and deployment using Streamlit.
 
